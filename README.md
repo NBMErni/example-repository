@@ -1,3 +1,3 @@
-# example-repository
+# my-first-repository
 My First Repository!!!
 !
